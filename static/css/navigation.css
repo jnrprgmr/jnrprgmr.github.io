@@ -1,0 +1,34 @@
+#title {
+    margin: 0px;
+    text-align: center;
+    padding-bottom: 35px;
+}
+
+#nav-bar {
+    padding: 0px;
+    margin: auto;
+    text-align: center;
+    list-style-type: none; 
+}
+
+.nav-bar-button {
+    padding: 0px;
+    width: 100px;
+    border: 1px solid #000000;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.nav-bar-button-link:hover {
+    color: #ffffff;
+    background: #303030; 
+}
+
+.nav-bar-button-link {
+    display: block;
+    background: #e80c3d;
+    padding: 4px 0;
+    border-radius: 7px;
+    text-decoration: none;
+    color: #000000;
+}

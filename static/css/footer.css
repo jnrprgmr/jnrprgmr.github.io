@@ -1,0 +1,9 @@
+#footer {
+    position: absolute;
+    color: #696969;
+    font-style: italic;
+    text-align: center;
+    font-size: 80%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
